@@ -65,7 +65,7 @@
   margin-bottom: 15px;
 }
 
-#button {
+.button {
   padding: 5px;
   background-color: hsl(213, 19%, 18%);
   color: hsl(217, 12%, 63%);
@@ -102,17 +102,17 @@
   
 }
 
-#button:hover {
+.button:hover {
   background-color: hsl(217, 12%, 63%);
   color: hsl(0, 0%, 100%);
 }
 
-#button:focus{
+.button:focus{
   background: hsl(25, 97%, 53%);
   color: hsl(0, 0%, 100%);
 }
 
-#submit:active{
+.submit:active{
   background: hsl(0, 0%, 100%);
   color: hsl(25, 97%, 53%);
 }

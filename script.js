@@ -2,7 +2,7 @@ let result
 
 function getVote(number) {
   result = number
-  document.querySelector("span[name='result']").innerHTML = result
+  document.getElementById('result').innerHTML = result
   return result
 }
 
