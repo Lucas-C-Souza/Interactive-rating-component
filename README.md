@@ -35,8 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://lucas-c-souza.github.io/Interactive-rating-component/](https://lucas-c-souza.github.io/Interactive-rating-component/)
 
 ## My process
 
@@ -124,4 +123,4 @@ store the function parameter so that it can be accessed on another page to be us
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Lucas-C-Souza](https://www.frontendmentor.io/profile/Lucas-C-Souza)
